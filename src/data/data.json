@@ -1,0 +1,132 @@
+{
+    "Header": {
+        "title": "International Fin Academy",
+        "paragraph": "We are proffessionals in exporting and applying the Finnish education success to other parts of the world."
+    },
+    "About": {
+        "paragraph": "International Fin Academy is an institution specialized in exporting the Finnish educational system and experience to other parts of the world. Located at the beautiful city of Kokkola we have connections to big number of proffessional educators and advisors all over the world.",
+        "Why": [
+            "High quality services for all education stages",
+            "Better understanding of regional needs",
+            "Teacher training By an elite of distinguished professors from the Centria University of Applied Sciences"
+        ],
+        "Why2": [
+            "IFacademy has cooperation with Kokkola city experts, its educational facilities, the University of Centria, and Student Traveler Center",
+            "Special attention to details",
+            "Focus on early education "
+        ]
+    },
+    "Services": [
+        {
+            "icon": "fa fa-building",
+            "name": "New educational institute",
+            "text": "We can assist you planning to start new education project depending on the finest education systems in Europe. With the help of great experts from Kokkola city education department in Finland"
+        },
+        {
+            "icon": "fa fa-comments",
+            "name": "consulting services",
+            "text": "IFacademy offers consultation in managing schools and nursuries, curriculum enhancement, teachers training and many more available upon request. "
+        },
+        {
+            "icon": "fa fa-refresh",
+            "name": "system reform",
+            "text": "New teaching techniques are now essential for your instetute to survive the competetion. In our company we have all the needed tools needed to update yor system"
+        },
+        {
+            "icon": "fa fa-book",
+            "name": "Learning environment design",
+            "text": "In IFacademy we know how to design a well-functioning learning environments. Including Building curricula which balance, academic performance and well-being. Along with guiding curriculum implementation."
+        },
+        {
+            "icon": "fa fa-info-circle",
+            "name": "Continues Suopport",
+            "text": "When you become our client, we will keep our eyes on you! our team will be constantly contacting and monitoring the progress of the projects and help with all the new challenges"
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Multi-lingual support",
+            "text": "INternational Fin academy has many regional advisors in all the major countries we are targering (Middle-East, China, India.... ). Those advisors can assist our clients in local and international languages"
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "title": "Kokkola city",
+            "text": "The beautiful city of Kokkola, which has great experience in educational systems through many institutes. That makes it a valuable contributer to any education-related organization ",
+            "link": "https://www.kokkola.fi/visitkokkola/"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "title": "Centeria university",
+            "text": "Centria University of Applied Sciences is a higher educational institution. It offers programs ranging from Business Management to Environmental Chemistry and Technology, Information technology, and Nursing, entirely taught in English.",
+            "link": "https://web.centria.fi/en"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "title": "VillaElba youth center",
+            "text": "Youth centres organize guided adventure, nature, environmental, cultural and camp activities in a high-quality, natural setting in accordance with the Youth Act. ",
+            "link": "https://www.villaelba.fi/en/youth-centre-villa-elba/"
+        }
+      
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpeg",
+            "name": "Muntaser Alhamad",
+            "job": "Director",
+            "email": "📧 muntaser.alhamad@ifacademy.fi",
+            "phone": "✆ +358 408713700"
+        },
+        {
+            "img": "img/team/03.jpeg",
+            "name": "May Elsiddig",
+            "job": "Regional advisor - China",
+            "email": "📧 may.elsiddig@ifacademy.fi",
+            "phone": "✆ +249 91 580 0558"
+        },
+        {
+            "img": "img/team/04.jpeg",
+            "name": "Dr.Shafi Abdulla",
+            "job": "Regional advisor - India",
+            "email": "📧 shafi.abdulla@ifacademy.fi",
+            "phone": "✆ +918281080000"
+        },
+        {
+            "img": "img/team/02.jpeg",
+            "name": "Mohammad Sajjad",
+            "job": "Regional advisor - Pakistan",
+            "email": "📧 mohammad.sajjad@ifacademy.fi",
+            "phone": "✆ +923217312002"
+        }
+    ],
+    "Contact": {
+        "address": "Ristirannankatu 5A 67100 Kokkola Finland ",
+        "phone": "+358 408713700",
+        "email": "info@ifacademy.fi",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-cogs",
+            "title": "Educational system improvement",
+            "text": "In IFacademy we Adapt and apply Finnish educational expertise to complement each school's unique context."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Uniqe learning experience",
+            "text": "Offer flexible and work-based learning opportunities for Schools and other education providers who want to increase the  Attractiveness of TVET by providing alternative or complementary studies for their students."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Tutors development",
+            "text": "Raise the quality of education by providing  number of professional services helping teatures to develope creative minds and create enlightened thoughts."
+        },
+        {
+            "icon": "fa fa-trophy",
+            "title": "Briter future",
+            "text": "FIN will assist it's clients to Co-create sustainable learning communities where people succeed as learners for life. "
+        }
+    ]
+}
