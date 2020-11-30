@@ -240,11 +240,12 @@ a:focus,
 }
 .intro p {
   color: #fff;
-  font-size: 22px;
-  font-weight: 300;
+  font-size: 30px;
+  font-weight: 400;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
+  text-shadow: 2px 2px #0e0d0d;
 }
 header .intro-text {
   padding-top: 350px;

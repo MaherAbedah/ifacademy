@@ -8,45 +8,31 @@
         "Why": [
             "High quality services for all education stages",
             "Better understanding of regional needs",
-            "Teacher training By an elite of distinguished professors from the Centria University of Applied Sciences"
+            "Teacher training by an elite of distinguished professors from the Centria University of Applied Sciences"
         ],
         "Why2": [
-            "IFacademy has cooperation with Kokkola city experts, its educational facilities, the University of Centria, and Student Traveler Center",
+            "IFA has cooperation with Kokkola city experts, its educational facilities, the University of Centria, and Student Traveler Center",
             "Special attention to details",
             "Focus on early education "
         ]
     },
     "Services": [
         {
-            "icon": "fa fa-building",
-            "name": "New educational institute",
-            "text": "We can assist you planning to start new education project depending on the finest education systems in Europe. With the help of great experts from Kokkola city education department in Finland"
-        },
-        {
             "icon": "fa fa-comments",
             "name": "consulting services",
-            "text": "IFacademy offers consultation in managing schools and nursuries, curriculum enhancement, teachers training and many more available upon request. "
+            "text": "International Fin Academy offers consultation services in setting up schools and nursuries, curriculum enhancement, cooperation with well-known educational institutes and many more available upon request. "
         },
         {
-            "icon": "fa fa-refresh",
-            "name": "system reform",
-            "text": "New teaching techniques are now essential for your instetute to survive the competetion. In our company we have all the needed tools needed to update yor system"
+            "icon": "fa fa-graduation-cap",
+            "name": "Teachers training",
+            "text": "IFA approaches will  improve enthusiasm and promote successful teaching practices also to develop the skills required to compete in the job market, improve cooperation between the educational institution and employees and reinforce the curriculum."
         },
         {
             "icon": "fa fa-book",
             "name": "Learning environment design",
-            "text": "In IFacademy we know how to design a well-functioning learning environments. Including Building curricula which balance, academic performance and well-being. Along with guiding curriculum implementation."
-        },
-        {
-            "icon": "fa fa-info-circle",
-            "name": "Continues Suopport",
-            "text": "When you become our client, we will keep our eyes on you! our team will be constantly contacting and monitoring the progress of the projects and help with all the new challenges"
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Multi-lingual support",
-            "text": "INternational Fin academy has many regional advisors in all the major countries we are targering (Middle-East, China, India.... ). Those advisors can assist our clients in local and international languages"
+            "text": "In IFA we know how to design a well-functioning learning environments. Including Building curricula which balance, academic performance and well-being. Along with guiding curriculum implementation."
         }
+      
     ],
     "Testimonials": [
         {
@@ -111,7 +97,7 @@
         {
             "icon": "fa fa-cogs",
             "title": "Educational system improvement",
-            "text": "In IFacademy we Adapt and apply Finnish educational expertise to complement each school's unique context."
+            "text": "In International Fin Academy we Adapt and apply Finnish educational expertise to complement each school's unique context."
         },
         {
             "icon": "fa fa-magic",
@@ -126,7 +112,7 @@
         {
             "icon": "fa fa-trophy",
             "title": "Briter future",
-            "text": "FIN will assist it's clients to Co-create sustainable learning communities where people succeed as learners for life. "
+            "text": "International Fin Academy will assist it's clients to Co-create sustainable learning communities where people succeed as learners for life. "
         }
     ]
 }
