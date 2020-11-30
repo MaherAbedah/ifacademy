@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ifacademy/static/css/main.69eda509.chunk.css",
-    "main.js": "/ifacademy/static/js/main.97401129.chunk.js",
-    "main.js.map": "/ifacademy/static/js/main.97401129.chunk.js.map",
+    "main.js": "/ifacademy/static/js/main.fd32fe87.chunk.js",
+    "main.js.map": "/ifacademy/static/js/main.fd32fe87.chunk.js.map",
     "runtime-main.js": "/ifacademy/static/js/runtime-main.89a3af45.js",
     "runtime-main.js.map": "/ifacademy/static/js/runtime-main.89a3af45.js.map",
     "static/js/2.b7e7956c.chunk.js": "/ifacademy/static/js/2.b7e7956c.chunk.js",
     "static/js/2.b7e7956c.chunk.js.map": "/ifacademy/static/js/2.b7e7956c.chunk.js.map",
     "index.html": "/ifacademy/index.html",
-    "precache-manifest.4be4277bc7d50e769b5b77796fba72a6.js": "/ifacademy/precache-manifest.4be4277bc7d50e769b5b77796fba72a6.js",
+    "precache-manifest.d0d5c168a9d2e2694b832ddb049ae2c5.js": "/ifacademy/precache-manifest.d0d5c168a9d2e2694b832ddb049ae2c5.js",
     "service-worker.js": "/ifacademy/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/ifacademy/static/css/main.69eda509.chunk.css.map",
     "static/js/2.b7e7956c.chunk.js.LICENSE.txt": "/ifacademy/static/js/2.b7e7956c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.89a3af45.js",
     "static/js/2.b7e7956c.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.97401129.chunk.js"
+    "static/js/main.fd32fe87.chunk.js"
   ]
 }
