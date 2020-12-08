@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import World from "@svg-maps/world";
+import { RadioSVGMap } from "react-svg-map";
+import "react-svg-map/lib/index.css";
 
 export class Team extends Component {
   render() {
@@ -9,7 +12,7 @@ export class Team extends Component {
             <h2>Meet the Team</h2>
             <p>
               Our team is an elegant combination of education experts and active regional advisors all over the world.
-            </p>
+            </p> 
           </div>
           <div id="row">
             {this.props.data
@@ -29,6 +32,7 @@ export class Team extends Component {
               ))
               : "loading"}
           </div>
+          <RadioSVGMap map={World} />
         </div>
       </div>
     );
