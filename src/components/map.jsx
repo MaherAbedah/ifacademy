@@ -1,23 +1,20 @@
-import React from 'react';
+import React, { Component } from 'react'
 import World from '@svg-maps/world';
 import { SVGMap } from '../../../src';
 import { getLocationName } from '../utils';
 
-class Map extends React.Component {
-	constructor(props) {
-		// super(props);
-
-		this.state = {
+class Map extends Component {
+		state = {
 			pointedLocation: null,
 			tooltipStyle: {
 				display: 'none'
 			}
 		};
 
-		this.handleLocationMouseOver = this.handleLocationMouseOver.bind(this);
-		this.handleLocationMouseOut = this.handleLocationMouseOut.bind(this);
-		this.handleLocationMouseMove = this.handleLocationMouseMove.bind(this);
-	}
+		// handleLocationMouseOver = this.handleLocationMouseOver.bind(this);
+		// this.handleLocationMouseOut = this.handleLocationMouseOut.bind(this);
+		// this.handleLocationMouseMove = this.handleLocationMouseMove.bind(this);
+	
 
 	handleLocationMouseOver(event) {
 		const pointedLocation = getLocationName(event);
