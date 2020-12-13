@@ -1,7 +1,7 @@
 {
   "name": "international-fin-academy",
   "private": true,
-  "homepage": "http://MaherAbedah.github.io/ifacademy",
+  
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@svg-maps/world": "^1.0.1",

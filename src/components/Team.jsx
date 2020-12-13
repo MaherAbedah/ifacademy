@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import World from "@svg-maps/world";
 import { RadioSVGMap } from "react-svg-map";
 import "react-svg-map/lib/index.css";
-// import Map from './map'
 
 export class Team extends Component {
   render() {
