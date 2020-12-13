@@ -18,8 +18,9 @@ export class testimonials extends Component {
                        <a href={d.link}> <img src={d.img} alt="" /></a>{" "}
                       </div>
                       <div className="testimonial-content">
+                      <a href={d.link}>
                         <h3>{d.title}</h3>
-                        <p>{d.text}</p>
+                        <p>{d.text}</p> </a>
                         {/* <div className="testimonial-meta"> - {d.name} </div> */}
                       </div>
                     </div>

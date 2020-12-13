@@ -1,36 +1,36 @@
 {
     "Header": {
         "title": "International Fin Academy",
-        "paragraph": "We are proffessionals in exporting and applying the Finnish education success to other parts of the world."
+        "paragraph": "Together to build generation of the future"
     },
     "About": {
-        "paragraph": "International Fin Academy is a proffesssional organization specialized in exporting the Finnish educational system and experience to other parts of the world. Located at the beautiful city of Kokkola we have connections to big number of proffessional educators and advisors all over the world.",
+        "paragraph": "Working professionally and professionally to provide intellectual capital, expertise and experiences of international quality with innovative ideas in the field of teacher training and educational and educational consultations that contribute to the upgrading of educational institutions and cadres, and the Academy adopts the best Finnish educational practices leading to prepare for the skills required for the twenty-first century.",
         "Why": [
-            "High quality services for all education stages",
-            "Better understanding of regional needs",
-            "Teacher training by an elite of distinguished professors from the Centria University of Applied Sciences"
+            "Following up modernity of means and educational tools to ensure the highest educational interests.",
+            "Finnish management for the Academy that move and train educational experiments which globally considered the best.",
+            "Concentration on the early education."
         ],
         "Why2": [
-            "IFA has cooperation with Kokkola city experts, its educational facilities, the University of Centria, and Student Traveler Center",
-            "Special attention to details",
-            "Focus on early education "
+            "A trained- qualified working team with multiple nationalities and languages in order to produce the best training and consulting services.",
+            "Accurate understanding of educational needs in different countries",
+            "We design curricula and educational methods professionally in line with current and future requirements."
         ]
     },
     "Services": [
         {
             "icon": "fa fa-comments",
             "name": "Consulting services",
-            "text": "International Fin Academy offers consultation services in setting up schools and nursuries, curriculum enhancement, cooperation with well-known educational institutes and many more available upon request. "
+            "text": "We provide educational consultations inspired by the leading Finnish experience in the educational field, and based on deep and modern specialized studies and research, supervised by academics, specialists and experts in the development of education experiences, we work very closely with many educational institutions to support them in various countries and provide everything new and modern."
         },
         {
             "icon": "fa fa-graduation-cap",
-            "name": "Teachers training",
-            "text": "IFA approaches will  improve enthusiasm and promote successful teaching practices also to develop the skills required to compete in the job market, improve cooperation between the educational institution and employees and reinforce the curriculum."
+            "name": "Training teachers",
+            "text": "The teacher needs constant training that improves his skills, knowledge and teaching behavior. At IFA Academy we offer high-level training to give teachers a great deal of competence in choosing methods that create fun for students in learning, and teachers ’desire to give and the ability to solve problems in innovative scientific ways."
         },
         {
             "icon": "fa fa-book",
-            "name": "Learning environment design",
-            "text": "In IFA we know how to design a well-functioning learning environments. Including Building curricula which balance, academic performance and well-being. Along with guiding curriculum implementation."
+            "name": "Designing educational environment",
+            "text": "We assist educational institutions in designing and preparing their educational environment with the means, tools, methods and curricula it contains according to innovative methods and positive practices that enhance interaction and pleasure in learning, clear and easy to implement In order to improve educational outcomes, to reach a distinguished level of achievement for students, while having a leadership personality."
         }
       
     ],
@@ -38,19 +38,19 @@
         {
             "img": "img/testimonials/01.jpg",
             "title": "Kokkola city",
-            "text": "The beautiful city of Kokkola, which has great experience in educational systems through many institutes. That makes it a valuable contributer to any education-related organization ",
+            "text": "The city of Coca-Cola is an important partner for us in the IFA Academy, and it is considered a cultural beacon open to nationalities, in which international cultural events and events take place and it offers advanced levels of education in its various stages. It has great experience in educational systems and methodologies through many of its institutes and universities.",
             "link": "https://www.kokkola.fi/visitkokkola/"
         },
         {
             "img": "img/testimonials/02.jpg",
             "title": "Centeria university",
-            "text": "Centria University of Applied Sciences is a higher educational institution. It offers programs ranging from Business Management to Environmental Chemistry and Technology, Information technology, and Nursing, entirely taught in English.",
+            "text": "Centria University of Applied Sciences is a recognized institution of higher education in Finland, offering a range of programs and majors in business administration, science, technology, communication, transportation, health, sports, culture, human sciences, and other disciplines, provided by the university according to the highest educational quality.",
             "link": "https://web.centria.fi/en"
         },
         {
             "img": "img/testimonials/03.jpg",
             "title": "VillaElba youth center",
-            "text": "Youth centres organize guided adventure, nature, environmental, cultural and camp activities in a high-quality, natural setting in accordance with the Youth Act. ",
+            "text": "An active Finnish youth center that organizes entrepreneurial activities, guided adventures, cultural and environmental events, and scare in a high-quality natural environment in accordance with the Youth Act.",
             "link": "https://www.villaelba.fi/en/youth-centre-villa-elba/"
         }
       
@@ -96,23 +96,23 @@
     "Features": [
         {
             "icon": "fa fa-cogs",
-            "title": "Educational system improvement",
-            "text": "In International Fin Academy we Adapt and apply Finnish educational expertise to complement each school's unique context."
+            "title": "Creativity and quality",
+            "text": "We work according to creative methods, methodologies and high-quality experiences according to the best international models in the services we provide."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Uniqe learning experience",
-            "text": "Offer flexible and work-based learning opportunities for Schools and other education providers who want to increase the  Attractiveness of TVET by providing alternative or complementary studies for their students."
+            "title": "Prepare for the future",
+            "text": "We give free rein to our thinking to anticipate the needs of the future and provide our services in line with the requirements of the times."
         },
         {
             "icon": "fa fa-group",
-            "title": "Tutors development",
-            "text": "Raise the quality of education by providing  number of professional services helping teatures to develope creative minds and create enlightened thoughts."
+            "title": "Innovation and diversity",
+            "text": "We create tools and diversify means to provide our services in creative ways that elevate teachers and educational institutions and contribute to a qualitative shift in the level of education."
         },
         {
             "icon": "fa fa-trophy",
-            "title": "Briter future",
-            "text": "International Fin Academy will assist it's clients to Co-create sustainable learning communities where people succeed as learners for life. "
+            "title": "Modernity and Contemporary",
+            "text": "We keep pace with modernity and technological development and offer programs, curricula and practices that simulate this development."
         }
     ]
 }

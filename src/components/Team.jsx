@@ -32,7 +32,7 @@ export class Team extends Component {
               ))
               : "loading"}
           </div>
-          <RadioSVGMap map={World} />
+          {/* <RadioSVGMap map={World} /> */}
           {/* <Map /> */}
         </div>
       </div>
