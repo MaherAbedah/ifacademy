@@ -1,7 +1,8 @@
 {
   "name": "international-fin-academy",
   "private": true,
-  
+  "homepage": "https://www.ifacademy.fi/ifn",
+  "version": "0.1.0",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@svg-maps/world": "^1.0.1",
