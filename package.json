@@ -1,7 +1,7 @@
 {
   "name": "international-fin-academy",
   "private": true,
-  "homepage": "https://www.ifacademy.fi/ifn",
+  "homepage": "https://maherabedah.github.io/ifacademy/",
   "version": "0.1.0",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
