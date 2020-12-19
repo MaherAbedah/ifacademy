@@ -8766,13 +8766,6 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react-svg-map@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/react-svg-map/-/react-svg-map-2.1.2.tgz#e5f0b3b2fddb9deb226b64288b5aaca9af5d727a"
-  integrity sha512-nLp4Ih52LhpEGDAMDf0I1d2/0WQMTbcegbk02AhIarFkKRNQs4L4wCX3xT1sXGIK7XFVMRv8xM5XoWMxGGSr0g==
-  dependencies:
-    prop-types "^15.7.2"
-
 react@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
