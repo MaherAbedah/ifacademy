@@ -20,7 +20,7 @@ export class Navigation extends Component {
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
               {/* International Fin Academy */}
-              <img src="img/logo-yellow.png" className="img-logo" alt="logo" />
+              <img src="img/yellow-gray.png" className="img-logo" alt="logo" />
             </a>{" "}
           </div>
 
@@ -54,11 +54,11 @@ export class Navigation extends Component {
                   Partners
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#team" className="page-scroll">
                   Team
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#contact" className="page-scroll">
                   Contact
