@@ -20,10 +20,9 @@ export class Navigation extends Component {
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
               {/* International Fin Academy */}
-              <img src="img/yellow-gray.jpg" className="img-logo" alt="logo" />
+              <img src="img/logo-trans.png" className="img-logo" alt="logo" />
             </a>{" "}
           </div>
-
           <div
             className="collapse navbar-collapse"
             id="bs-example-navbar-collapse-1"
