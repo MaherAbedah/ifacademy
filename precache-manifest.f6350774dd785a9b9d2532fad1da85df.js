@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae5fd6137ec70640573e8cfe35bda6f8",
+    "revision": "f2cbdbaaca987482791a12aeb1ec6cfd",
     "url": "/ifacademy/index.html"
   },
   {
-    "revision": "91d68fb026bac714fc99",
+    "revision": "de0144a5017a96e983e6",
     "url": "/ifacademy/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ifacademy/static/js/2.a87bd787.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91d68fb026bac714fc99",
-    "url": "/ifacademy/static/js/main.1b8daa4c.chunk.js"
+    "revision": "de0144a5017a96e983e6",
+    "url": "/ifacademy/static/js/main.e2f1803e.chunk.js"
   },
   {
     "revision": "710ae60ab4afae06a906",
