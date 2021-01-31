@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ifacademy/static/css/main.69eda509.chunk.css",
-    "main.js": "/ifacademy/static/js/main.e2f1803e.chunk.js",
-    "main.js.map": "/ifacademy/static/js/main.e2f1803e.chunk.js.map",
+    "main.js": "/ifacademy/static/js/main.b51c14d6.chunk.js",
+    "main.js.map": "/ifacademy/static/js/main.b51c14d6.chunk.js.map",
     "runtime-main.js": "/ifacademy/static/js/runtime-main.89a3af45.js",
     "runtime-main.js.map": "/ifacademy/static/js/runtime-main.89a3af45.js.map",
-    "static/js/2.a87bd787.chunk.js": "/ifacademy/static/js/2.a87bd787.chunk.js",
-    "static/js/2.a87bd787.chunk.js.map": "/ifacademy/static/js/2.a87bd787.chunk.js.map",
+    "static/js/2.6b464058.chunk.js": "/ifacademy/static/js/2.6b464058.chunk.js",
+    "static/js/2.6b464058.chunk.js.map": "/ifacademy/static/js/2.6b464058.chunk.js.map",
     "index.html": "/ifacademy/index.html",
-    "precache-manifest.f6350774dd785a9b9d2532fad1da85df.js": "/ifacademy/precache-manifest.f6350774dd785a9b9d2532fad1da85df.js",
+    "precache-manifest.fe85af29d6d78d1622c3dff12989a3ff.js": "/ifacademy/precache-manifest.fe85af29d6d78d1622c3dff12989a3ff.js",
     "service-worker.js": "/ifacademy/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/ifacademy/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.a87bd787.chunk.js.LICENSE.txt": "/ifacademy/static/js/2.a87bd787.chunk.js.LICENSE.txt"
+    "static/js/2.6b464058.chunk.js.LICENSE.txt": "/ifacademy/static/js/2.6b464058.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.89a3af45.js",
-    "static/js/2.a87bd787.chunk.js",
+    "static/js/2.6b464058.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.e2f1803e.chunk.js"
+    "static/js/main.b51c14d6.chunk.js"
   ]
 }
