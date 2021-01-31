@@ -234,10 +234,12 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+  position: relative;
 }
 .intro h1 span {
   font-weight: 800;
   color: #eeeb22;
+  position: relative;
 }
 .intro p {
   color: #eeeb22;
@@ -247,6 +249,7 @@ a:focus,
   margin: 0 auto;
   margin-bottom: 60px;
   text-shadow: 2px 2px #0e0d0d;
+  position: relative;
 }
 header .intro-text {
   padding-top: 350px;
@@ -257,6 +260,9 @@ header .intro-text {
 #features {
   padding: 100px 0;
   background: #d6d3d3;
+}
+#features .features-desc {
+  margin: 0px;
 }
 #features i.fa {
   font-size: 38px;
@@ -272,7 +278,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding: 100px 0;
+  padding: 20px 0;
   background: #d6d3d3;
 }
 #about h3 {
@@ -613,5 +619,23 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+  .intro h1 {
+    font-size: xx-large;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  /* styles for narrow screens */
+  .intro {
+    background: url(../img/intro-bg-small.png) center center no-repeat;
+    display: table;
+    width: 100%;
+    padding: 0;
+    background-color: #7e7979;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
   }
 }

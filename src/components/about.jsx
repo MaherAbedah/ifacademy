@@ -7,10 +7,6 @@ export class about extends Component {
         <div id="about">
         <div className="container">
           <div className="row">
-            <div className="col-xs-12 col-md-6"> 
-              {/* <img src="img/about.jpg" className="img-responsive" alt=""/>  */}
-              <Video />
-            </div>
             <div className="col-xs-12 col-md-6">
               <div className="about-text">
                 <h2>About Us</h2>
@@ -30,6 +26,10 @@ export class about extends Component {
                   </div>
                 </div>
               </div>
+            </div>
+            <div className="col-xs-12 col-md-6"> 
+              {/* <img src="img/about.jpg" className="img-responsive" alt=""/>  */}
+              <Video />
             </div>
           </div>
         </div>
