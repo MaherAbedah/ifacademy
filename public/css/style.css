@@ -627,7 +627,7 @@ label {
 
 @media only screen and (max-width: 420px) {
   /* styles for narrow screens */
-  .intro {
+  /* .intro {
     background: url(../img/intro-bg-small.png) center center no-repeat;
     display: table;
     width: 100%;
@@ -637,5 +637,5 @@ label {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-  }
+  } */
 }
