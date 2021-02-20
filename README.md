@@ -1,6 +1,6 @@
 # International Fin Academy
 
-### <a href="https://maherabedah.github.io/ifacademy">LIVE DEMO</a>
+### <a href="http://ifacademy.fi/">website here</a>
 
 ## Description
 
