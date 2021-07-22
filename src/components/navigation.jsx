@@ -43,11 +43,11 @@ export class Navigation extends Component {
                   Services
                 </a>
               </li>
-              {/* <li>
+              <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
+                  Online Courses
                 </a>
-              </li> */}
+              </li>
               <li>
                 <a href="#testimonials" className="page-scroll">
                   Partners

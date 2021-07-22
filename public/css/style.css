@@ -616,18 +616,18 @@ label {
   border-bottom: 2px solid #eeeb22;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   #about img {
-    margin: 50px 0;
+    margin: 30px 0;
   }
   .intro h1 {
-    font-size: xx-large;
+    font-size: x-large;
   }
 }
 
 @media only screen and (max-width: 420px) {
-  /* styles for narrow screens */
-  /* .intro {
+  /* styles for narrow screens  */
+  .intro {
     background: url(../img/intro-bg-small.png) center center no-repeat;
     display: table;
     width: 100%;
@@ -637,5 +637,5 @@ label {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-  } */
+  }
 }

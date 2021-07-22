@@ -6,10 +6,9 @@ export class Gallery extends Component {
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Gallery</h2>
+            <h2>On Line Courses</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              Our on line courses are created by the best specialists in education field and provides the best up-to-date knowledge.
             </p>
           </div>
           <div className="row">
@@ -20,11 +19,11 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/01-large.jpg"
-                      title="Project Title"
+                      title="Finnish education"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4> Basics of Finnish education </h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
